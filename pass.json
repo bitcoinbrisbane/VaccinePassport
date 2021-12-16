@@ -1,0 +1,86 @@
+{
+    "formatVersion": 1,
+    "serialNumber": "100112846203",
+    "passTypeIdentifier": "pass.au.gov.servicesaustralia.covid",
+    "description": "COVID-19 digital certificate",
+    "teamIdentifier": "LYAK8N6GHR",
+    "organizationName": "Services Australia",
+    "foregroundColor": "rgb(255,255,255)",
+    "backgroundColor": "rgb(0,88,64)",
+    "labelColor": "rgb(242,248,35)",
+    "generic": {
+        "headerFields": [
+            {
+                "key": "header",
+                "label": "Certificate",
+                "value": "COVID-19"
+            }
+        ],
+        "primaryFields": [
+            {
+                "key": "name",
+                "label": "Name",
+                "value": "KIM JONG-UN"
+            }
+        ],
+        "secondaryFields": [
+            {
+                "key": "dob",
+                "label": "Date of birth",
+                "value": "8 Jan 1984"
+            },
+            {
+                "key": "documentId",
+                "label": "Document number",
+                "value": "1001 1284 6203",
+                "textAlignment": "PKTextAlignmentRight"
+            }
+        ],
+        "auxiliaryFields": [
+            {
+                "key": "validFrom",
+                "label": "Valid from",
+                "value": "16 Dec 2021"
+            }
+        ],
+        "backFields": [
+            {
+                "key": "vaccines",
+                "label": "",
+                "value": "This individual has received all required COVID-19 vaccinations."
+            },
+            {
+                "key": "fullname",
+                "label": "Name",
+                "value": "KIM JONG-UN"
+            },
+            {
+                "key": "ihi",
+                "label": "Individual Healthcare Identifier (IHI)",
+                "value": "0000 0000 0000 0000",
+                "dataDetectorTypes": []
+            },
+            {
+                "key": "vax",
+                "label": "Pfizer Comirnaty",
+                "value": "21 Sep 2021, 16 Dec 2021"
+            },
+            {
+                "key": "terms",
+                "label": "Disclaimer",
+                "value": "This certificate shows your COVID-19 vaccination details as reported to the Australian Immunisation Register by your vaccination provider. It is available because you have received all required COVID-19 vaccinations or have a medical contraindication to COVID-19 vaccines.\n\nNo more than two vaccinations will be shown on your certificate. The valid from date shown on your certificate is the date of your last COVID-19 vaccination. To see your earlier COVID-19 vaccinations, refer to your immunisation history statement.\n\nEvery effort is made to ensure that the information contained on the Australian Immunisation Register is correct. The data is based on information provided by vaccination providers and the accuracy of data is dependent on the quality and timeliness of information provided.\n\nIf any of the vaccination details shown on the certificate are not correct, please ask your vaccination provider to provide the correct details. They can call us on 1800 653 809 (call charges may apply).\n\nIf you have any questions about this certificate please call the Australian Immunisation Register on 1800 653 809 (call charges may apply)."
+            },
+            {
+                "key": "dateGenerated",
+                "label": "Date generated",
+                "value": "16 Dec 2021"
+            },
+            {
+                "key": "version",
+                "label": "Version",
+                "value": "v2021.12.10"
+            }
+        ]
+    },
+    "sharingProhibited": false
+}
